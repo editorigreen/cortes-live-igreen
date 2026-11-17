@@ -22,7 +22,7 @@ Windows 10/11 · Python 3.12 · FFmpeg 9 "full" no PATH · CapCut Desktop 9.x ·
 
 ## Instalação
 ```powershell
-git clone https://github.com/<sua-conta>/cortes-live-igreen.git
+git clone https://github.com/editorigreen/cortes-live-igreen.git
 cd cortes-live-igreen
 powershell -ExecutionPolicy Bypass -File .\instalar.ps1
 ```
