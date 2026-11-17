@@ -1,0 +1,172 @@
+{
+  "_marca": {
+    "verde_neon": "#1EFF2E",
+    "verde_escuro": "#05260F",
+    "branco": "#F3F5F2",
+    "cinza_1": "#E1E7E2",
+    "cinza_2": "#C9D2CB",
+    "cinza_3": "#8E9A91",
+    "borda": "#24402C",
+    "negacao": "#FF3B3B",
+    "fonte_titulo": "Anton-Regular.ttf",
+    "fonte_texto": "Montserrat[wght].ttf",
+    "origem": "skill deck-lancamento-produto-igreen + auditoria REF01-REF10"
+  },
+  "legenda": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 800,
+    "tamanho": 88,
+    "cor": "#F3F5F2",
+    "tracking": -2,
+    "sombra": true,
+    "sombra_blur": 10,
+    "sombra_alpha": 0.75,
+    "sombra_off": [
+      0,
+      5
+    ]
+  },
+  "legenda_destaque": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 900,
+    "tamanho": 112,
+    "cor": "#1EFF2E",
+    "tracking": -3,
+    "sombra": true,
+    "sombra_blur": 12,
+    "sombra_alpha": 0.8,
+    "sombra_off": [
+      0,
+      6
+    ],
+    "glow": 14,
+    "glow_cor": "#1EFF2E"
+  },
+  "legenda_negacao": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 900,
+    "tamanho": 108,
+    "cor": "#FF3B3B",
+    "tracking": -3,
+    "sombra": true,
+    "sombra_blur": 12,
+    "sombra_alpha": 0.8
+  },
+  "titulo_atras": {
+    "fonte": "Anton-Regular.ttf",
+    "tamanho": 360,
+    "caixa": "alta",
+    "tracking": -1,
+    "cor": "#F3F5F2",
+    "gradiente": [
+      "#F3F5F2",
+      "#1EFF2E"
+    ],
+    "glow": 26,
+    "glow_cor": "#1EFF2E"
+  },
+  "titulo_atras_branco": {
+    "fonte": "Anton-Regular.ttf",
+    "tamanho": 330,
+    "caixa": "alta",
+    "tracking": -1,
+    "cor": "#F3F5F2",
+    "glow": 18,
+    "glow_cor": "#FFFFFF"
+  },
+  "numero_impacto": {
+    "fonte": "Anton-Regular.ttf",
+    "tamanho": 300,
+    "caixa": "alta",
+    "cor": "#1EFF2E",
+    "glow": 30,
+    "glow_cor": "#1EFF2E",
+    "sombra": true,
+    "sombra_blur": 16,
+    "sombra_alpha": 0.6
+  },
+  "setup_pequeno": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 600,
+    "tamanho": 54,
+    "caixa": "baixa",
+    "cor": "#F3F5F2",
+    "sombra": true,
+    "sombra_blur": 10,
+    "sombra_alpha": 0.7
+  },
+  "punch_condensado": {
+    "fonte": "Anton-Regular.ttf",
+    "tamanho": 150,
+    "caixa": "alta",
+    "cor": "#1EFF2E",
+    "glow": 16,
+    "glow_cor": "#1EFF2E",
+    "sombra": true,
+    "sombra_blur": 12,
+    "sombra_alpha": 0.7
+  },
+  "lower_third_nome": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 800,
+    "tamanho": 66,
+    "cor": "#05260F",
+    "caixa_fundo": "#1EFF2E",
+    "caixa_raio": 0.22
+  },
+  "lower_third_cargo": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 600,
+    "tamanho": 46,
+    "cor": "#F3F5F2",
+    "caixa_fundo": "#05260F",
+    "caixa_alpha": 0.92,
+    "caixa_raio": 0.25
+  },
+  "eyebrow": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 700,
+    "tamanho": 34,
+    "caixa": "alta",
+    "tracking": 18,
+    "cor": "#1EFF2E",
+    "sombra": true,
+    "sombra_blur": 8,
+    "sombra_alpha": 0.7
+  },
+  "cta": {
+    "fonte": "Anton-Regular.ttf",
+    "tamanho": 120,
+    "caixa": "alta",
+    "cor": "#F3F5F2",
+    "sombra": true,
+    "sombra_blur": 14,
+    "sombra_alpha": 0.7
+  },
+  "selo_pilula": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 800,
+    "tamanho": 50,
+    "tracking": 0,
+    "cor": "#05260F",
+    "caixa_fundo": "#1EFF2E",
+    "caixa_raio": 0.5
+  },
+  "gc_nome": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 700,
+    "tamanho": 76,
+    "caixa": "alta",
+    "cor": "#FFFFFF",
+    "tracking": 0,
+    "_origem": "REF11 GC (barra preta, nome branco à direita)"
+  },
+  "gc_cargo": {
+    "fonte": "Montserrat[wght].ttf",
+    "peso": 700,
+    "tamanho": 50,
+    "cor": "#003300",
+    "tracking": 0,
+    "_origem": "REF11 GC (barra verde #38FD25, cargo verde-escuro)"
+  }
+}

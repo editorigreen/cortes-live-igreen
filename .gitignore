@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# itens internos do time (vêm só no pacote interno, não no repositório público)
+assets/musica/*.mp3
+exemplo_live_2026-11-14/

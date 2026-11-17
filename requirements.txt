@@ -1,0 +1,13 @@
+# Versões EXATAS da máquina de referência (iGreen.MKT, 2026-11-17). Mesmas versões = mesmos pixels.
+# Instale com:  py -3.12 -m pip install -r requirements.txt
+numpy==2.5.4
+opencv-python==5.0.0.93
+pillow==13.0.0
+scipy==1.18.1
+faster-whisper==1.2.1
+ctranslate2==4.8.5
+huggingface_hub==2.4.0
+imageio==2.38.1
+av==19.0.2
+# NÃO usar (bloqueados pelo Controle de Aplicativo do Windows nas máquinas iGreen): rembg, librosa, numba, soxr.
+# Fora do pip: FFmpeg 9.0.2 "full" (gyan.dev) no PATH — winget install Gyan.FFmpeg
